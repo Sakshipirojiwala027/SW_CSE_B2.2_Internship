@@ -1,6 +1,6 @@
 CSS Selectors: are patterns used to choose which html element a CSS rule should style
-1. Type Selector / Element Selector
-2. class
+1. Type Selector / Element Selectors
+2. Class selector
 3. Id Selector
 4. Universal Selector
 5. Grouping Selector
