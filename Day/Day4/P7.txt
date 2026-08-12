@@ -10,4 +10,3 @@ CSS Selectors: are patterns used to choose which html element a CSS rule should 
 9. Attribute Selector
 10. Psuedo-class Selector
 11. Psuedo-element Selector
-12. 
